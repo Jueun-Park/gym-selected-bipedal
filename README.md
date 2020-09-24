@@ -7,7 +7,8 @@ From [`BipedalWalkerHardcore`](https://github.com/openai/gym/blob/master/gym/env
 To setup the custom module, do
 
 ```sh
-pip install -e gym_selected_bipedal/
+git clone https://github.com/Jueun-Park/gym-selected-bipedal.git
+pip install -e gym-selected-bipedal/
 ```
 
 (Using `virtualenv` or `miniconda` is recommended)
